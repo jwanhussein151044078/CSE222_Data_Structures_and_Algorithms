@@ -1,0 +1,5 @@
+w = 4
+xa = -2
+as = 90
+
+cos( sin( as * 2 ) ) + abs( xa ) / w + 4 * ( w - 2 )
